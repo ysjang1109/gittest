@@ -12,5 +12,6 @@
   <h3><font color="#0000ff"><%= new java.util.Date() %> </font></h3>
   <hr color="#000000" />
   </center>
+  eclipse connect!!
   </body>
 </html>
